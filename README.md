@@ -299,7 +299,7 @@ Enter this in the SQL Runner tab and click **Run** to see the result in a sortab
 
 ## Screenshots
 
-> _Add screenshots of the five dashboard tabs (Overview, Comparison, Insights, Forecast, SQL Runner) here._
+![alt text](image.png)
 
 ---
 
