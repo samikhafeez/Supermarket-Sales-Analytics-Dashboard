@@ -1,0 +1,36 @@
+2026-04-19 01:30:53 | INFO     | services.analytics | Anomaly detection flagged 1 rows (method=iqr)
+2026-04-19 01:30:53 | INFO     | services.insights | Generated 8 automatic insights
+2026-04-19 01:38:59 | INFO     | __main__ | Reading CSV /Users/samikhafeez/Desktop/GitHub Repositories/Supermarket Sales Analytics Dashboard/data/raw/supermarket_sales.csv (as Supermarket A)
+2026-04-19 01:38:59 | INFO     | __main__ | Loaded supermarket_sales.csv as Supermarket A
+2026-04-19 01:38:59 | INFO     | __main__ | Reading CSV /Users/samikhafeez/Desktop/GitHub Repositories/Supermarket Sales Analytics Dashboard/data/raw/supermarket_sales_competitor.csv (as Supermarket B)
+2026-04-19 01:38:59 | INFO     | __main__ | Loaded supermarket_sales_competitor.csv as Supermarket B
+2026-04-19 01:38:59 | INFO     | __main__ | Reading CSV /Users/samikhafeez/Desktop/GitHub Repositories/Supermarket Sales Analytics Dashboard/data/raw/supermarket_sales_competitor_2.csv (as Supermarket C)
+2026-04-19 01:38:59 | INFO     | __main__ | Loaded supermarket_sales_competitor_2.csv as Supermarket C
+2026-04-19 01:38:59 | INFO     | __main__ | Combined dataset: 14000 rows across 3 markets
+2026-04-19 01:38:59 | INFO     | __main__ | Persisted 14000 rows to /Users/samikhafeez/Desktop/GitHub Repositories/Supermarket Sales Analytics Dashboard/supermarket_sales.db
+2026-04-19 01:39:15 | INFO     | services.data_loader | Loaded 14000 rows from database
+2026-04-19 01:39:15 | INFO     | utils.filters | Filters applied. Rows remaining: 14000
+2026-04-19 01:39:15 | INFO     | services.insights | Generated 8 automatic insights
+2026-04-19 01:39:15 | INFO     | services.analytics | Anomaly detection flagged 1033 rows (method=iqr)
+2026-04-19 01:39:36 | INFO     | utils.filters | Filters applied. Rows remaining: 14000
+2026-04-19 01:39:36 | INFO     | services.insights | Generated 8 automatic insights
+2026-04-19 01:39:36 | INFO     | services.analytics | Anomaly detection flagged 323 rows (method=zscore)
+2026-04-19 01:39:37 | INFO     | utils.filters | Filters applied. Rows remaining: 14000
+2026-04-19 01:39:37 | INFO     | services.insights | Generated 8 automatic insights
+2026-04-19 12:16:35 | INFO     | services.data_loader | Reading CSV /Users/samikhafeez/Desktop/GitHub Repositories/Supermarket Sales Analytics Dashboard/data/raw/supermarket_sales.csv (as Supermarket A)
+2026-04-19 12:16:35 | INFO     | services.data_loader | Loaded supermarket_sales.csv as Supermarket A
+2026-04-19 12:16:35 | INFO     | services.data_loader | Reading CSV /Users/samikhafeez/Desktop/GitHub Repositories/Supermarket Sales Analytics Dashboard/data/raw/supermarket_sales_competitor.csv (as Supermarket B)
+2026-04-19 12:16:35 | INFO     | services.data_loader | Loaded supermarket_sales_competitor.csv as Supermarket B
+2026-04-19 12:16:35 | INFO     | services.data_loader | Reading CSV /Users/samikhafeez/Desktop/GitHub Repositories/Supermarket Sales Analytics Dashboard/data/raw/supermarket_sales_competitor_2.csv (as Supermarket C)
+2026-04-19 12:16:35 | INFO     | services.data_loader | Loaded supermarket_sales_competitor_2.csv as Supermarket C
+2026-04-19 12:16:35 | INFO     | services.data_loader | Combined dataset: 14000 rows across 3 markets
+2026-04-19 12:16:35 | INFO     | services.data_loader | Persisted 14000 rows to /Users/samikhafeez/Desktop/GitHub Repositories/Supermarket Sales Analytics Dashboard/supermarket_sales.db
+2026-04-19 12:16:52 | INFO     | services.data_loader | Loaded 14000 rows from database
+2026-04-19 12:16:52 | INFO     | utils.filters | Filters applied. Rows remaining: 14000
+2026-04-19 12:16:53 | INFO     | services.insights | Generated 8 automatic insights
+2026-04-19 12:16:53 | INFO     | services.analytics | Anomaly detection flagged 1033 rows (method=iqr)
+2026-04-19 12:18:06 | INFO     | utils.filters | Filters applied. Rows remaining: 14000
+2026-04-19 12:18:06 | INFO     | services.insights | Generated 8 automatic insights
+2026-04-19 12:18:06 | INFO     | services.analytics | Anomaly detection flagged 323 rows (method=zscore)
+2026-04-19 12:18:08 | INFO     | utils.filters | Filters applied. Rows remaining: 14000
+2026-04-19 12:18:08 | INFO     | services.insights | Generated 8 automatic insights

@@ -1,0 +1,11 @@
+Synthetic Supermarket Sales Dataset
+Rows: 5,000
+Date coverage: full year 2025
+Branches: A, B, C, D
+Cities: Bradford, Leeds, Manchester, Salford
+Product lines: 10
+Payment methods: Cash, Credit Card, Debit Card, Mobile Wallet
+
+Notes:
+- Data is synthetic and suitable for SQL, dashboarding, KPI analysis, and EDA.
+- Includes realistic variation by branch, seasonality, product category, quantity, payment method, and ratings.
