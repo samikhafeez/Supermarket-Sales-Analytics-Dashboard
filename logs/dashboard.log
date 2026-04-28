@@ -34,3 +34,14 @@
 2026-04-19 12:18:06 | INFO     | services.analytics | Anomaly detection flagged 323 rows (method=zscore)
 2026-04-19 12:18:08 | INFO     | utils.filters | Filters applied. Rows remaining: 14000
 2026-04-19 12:18:08 | INFO     | services.insights | Generated 8 automatic insights
+2026-04-29 00:09:54 | INFO     | services.data_loader | Loaded 14000 rows from database
+2026-04-29 00:09:54 | INFO     | utils.filters | Filters applied. Rows remaining: 14000
+2026-04-29 00:09:54 | INFO     | services.insights | Generated 8 automatic insights
+2026-04-29 00:09:54 | INFO     | services.analytics | Anomaly detection flagged 1033 rows (method=iqr)
+2026-04-29 00:10:17 | INFO     | utils.filters | Filters applied. Rows remaining: 14000
+2026-04-29 00:10:17 | INFO     | services.insights | Generated 8 automatic insights
+2026-04-29 00:10:17 | INFO     | services.analytics | Anomaly detection flagged 323 rows (method=zscore)
+2026-04-29 00:10:18 | INFO     | utils.filters | Filters applied. Rows remaining: 14000
+2026-04-29 00:10:18 | INFO     | services.insights | Generated 8 automatic insights
+2026-04-29 00:10:32 | INFO     | utils.filters | Filters applied. Rows remaining: 14000
+2026-04-29 00:10:32 | INFO     | services.insights | Generated 8 automatic insights
